@@ -9,14 +9,14 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+AI+Engineer+%7C+Data+Engineer;%F0%9F%9A%80+Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Animated Wave Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 
-## 🧠 About Me
+## About Me
 
 ```python
 class ShubhamVeer:
@@ -25,7 +25,7 @@ class ShubhamVeer:
     def __init__(self):
         self.name = "Shubham Veer"
         self.role = "AI Engineer | Data Engineer | Forward Deployed Engineer"
-        self.status = "🟢 Open to Work"
+        self.status = "Open to Work"
         self.languages = ["Python", "SQL", "JavaScript"]
         self.interests = ["Machine Learning", "Deep Learning", "NLP", "GenAI",
                           "Data Pipelines", "ETL", "Analytics"]
@@ -34,12 +34,12 @@ class ShubhamVeer:
         return ["LLM Fine-tuning", "MLOps", "System Design"]
     
     def fun_fact(self):
-        return "I speak English, Hindi, and a bit of German! 🌍"
+        return "I speak English, Hindi, and a bit of German!"
 
 me = ShubhamVeer()
 ```
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -58,13 +58,17 @@ me = ShubhamVeer()
 <!-- DevOps & Tools -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
 
 <!-- Cloud & Databases -->
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
@@ -77,7 +81,7 @@ me = ShubhamVeer()
   <img alt="github-snake" src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/github-snake.svg" width="100%"/>
 </picture>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PROGRAMMER-DUMMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
@@ -91,13 +95,13 @@ me = ShubhamVeer()
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROGRAMMER-DUMMY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PROGRAMMER-DUMMY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/PROGRAMMER-DUMMY/MinusAgent">
@@ -116,13 +120,13 @@ me = ShubhamVeer()
   </a>
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/PROGRAMMER-DUMMY">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/shubham-veer">
+  <a href="https://www.linkedin.com/in/shubham-veer-3609a7404/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -138,5 +142,5 @@ me = ShubhamVeer()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 <p align="center">
-  <i>⭐ "The best way to predict the future is to build it." — Alan Kay</i>
+  <i>"The best way to predict the future is to build it." — Alan Kay</i>
 </p>

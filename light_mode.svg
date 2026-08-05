@@ -1,115 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="14px">
 <style>
-@font-face {
-  src: local('Consolas'), local('Consolas Bold');
-  font-family: 'ConsolasFallback';
-  font-display: swap;
-  size-adjust: 109%;
-}
-.key {fill: #bf8700;}
-.value {fill: #0550ae;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #8c959f;}
-.header {fill: #0969da; font-weight: bold;}
-.separator {fill: #afb8c1;}
-.badge {fill: #1a7f37;}
-text, tspan {white-space: pre;}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes slideIn {
-  from { opacity: 0; transform: translateX(-10px); }
-  to { opacity: 1; transform: translateX(0); }
-}
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-
-.ascii-art { animation: fadeIn 1.5s ease-in-out; }
-.info-line-1 { animation: slideIn 0.5s ease-out 0.3s both; }
-.info-line-2 { animation: slideIn 0.5s ease-out 0.5s both; }
-.info-line-3 { animation: slideIn 0.5s ease-out 0.7s both; }
-.info-line-4 { animation: slideIn 0.5s ease-out 0.9s both; }
-.info-line-5 { animation: slideIn 0.5s ease-out 1.1s both; }
-.info-line-6 { animation: slideIn 0.5s ease-out 1.3s both; }
-.info-line-7 { animation: slideIn 0.5s ease-out 1.5s both; }
-.info-line-8 { animation: slideIn 0.5s ease-out 1.7s both; }
-.info-line-9 { animation: slideIn 0.5s ease-out 1.9s both; }
-.info-line-10 { animation: slideIn 0.5s ease-out 2.1s both; }
-.info-line-11 { animation: slideIn 0.5s ease-out 2.3s both; }
-.info-line-12 { animation: slideIn 0.5s ease-out 2.5s both; }
-.info-line-13 { animation: slideIn 0.5s ease-out 2.7s both; }
-.info-line-14 { animation: slideIn 0.5s ease-out 2.9s both; }
-.info-line-15 { animation: slideIn 0.5s ease-out 3.1s both; }
-.info-line-16 { animation: slideIn 0.5s ease-out 3.3s both; }
-.info-line-17 { animation: slideIn 0.5s ease-out 3.5s both; }
-.info-line-18 { animation: slideIn 0.5s ease-out 3.7s both; }
-.info-line-19 { animation: slideIn 0.5s ease-out 3.9s both; }
-.info-line-20 { animation: slideIn 0.5s ease-out 4.1s both; }
-.cursor {
-  animation: blink 1s step-end infinite;
-  fill: #0969da;
-}
+@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;size-adjust:109%}
+.k{fill:#bf8700}.v{fill:#0550ae}.c{fill:#8c959f}.h{fill:#0969da;font-weight:bold}.s{fill:#afb8c1}.g{fill:#1a7f37}
+text,tspan{white-space:pre}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+@keyframes si{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+@keyframes bk{0%,50%{opacity:1}51%,100%{opacity:0}}
+.aa{animation:fi 1.2s ease-in-out}
+.il1{animation:si .4s ease-out 0.35s both}
+.il2{animation:si .4s ease-out 0.50s both}
+.il3{animation:si .4s ease-out 0.65s both}
+.il4{animation:si .4s ease-out 0.80s both}
+.il5{animation:si .4s ease-out 0.95s both}
+.il6{animation:si .4s ease-out 1.10s both}
+.il7{animation:si .4s ease-out 1.25s both}
+.il8{animation:si .4s ease-out 1.40s both}
+.il9{animation:si .4s ease-out 1.55s both}
+.il10{animation:si .4s ease-out 1.70s both}
+.il11{animation:si .4s ease-out 1.85s both}
+.il12{animation:si .4s ease-out 2.00s both}
+.il13{animation:si .4s ease-out 2.15s both}
+.il14{animation:si .4s ease-out 2.30s both}
+.il15{animation:si .4s ease-out 2.45s both}
+.il16{animation:si .4s ease-out 2.60s both}
+.il17{animation:si .4s ease-out 2.75s both}
+.il18{animation:si .4s ease-out 2.90s both}
+.il19{animation:si .4s ease-out 3.05s both}
+.il20{animation:si .4s ease-out 3.20s both}
+.il21{animation:si .4s ease-out 3.35s both}
+.cr{animation:bk 1s step-end infinite;fill:#0969da}
 </style>
 <rect width="985px" height="560px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1"/>
-<circle cx="25" cy="12" r="5" fill="#ff5f56"/>
-<circle cx="45" cy="12" r="5" fill="#ffbd2e"/>
-<circle cx="65" cy="12" r="5" fill="#27c93f"/>
-<text x="15" y="40" fill="#1f2328" class="ascii-art">
-<tspan x="15" y="30">&amp;&amp;8$BBDDHHKQQXXXXXX00ZZ00000000XXXQQKHDDB$</tspan>
-<tspan x="15" y="50">88$BBDHKKQQX000ZZbbnbbbnnnbbZZZZ00XXQKKHDD</tspan>
-<tspan x="15" y="70">88BDDHKQQX0ZZZbnZ0Q$WWM$DKXbmnbbbZ00XQQKHD</tspan>
-<tspan x="15" y="90">8$BDHKQXX0ZbbnnQBWWM@@@@@@@%BmmnbbZZ0XXKKH</tspan>
-<tspan x="15" y="110">$BDDKQQX0ZbbnZHB&amp;#WWW@@@@@@@@WZqnmnbZ0XQKK</tspan>
-<tspan x="15" y="130">BDDHQQX0ZbbmnW8$BWM%%@#%@@@@@@%nqmmnbZ0XQQ</tspan>
-<tspan x="15" y="150">BDHKQX0ZZbnnQ%BXBW&amp;M@@#%@@@@@@@0dqqmnbZ0XQ</tspan>
-<tspan x="15" y="170">BDHKQX0Zbbmn&amp;%%#@@%%@%%@@@@@@@MdpppqmbZZXQ</tspan>
-<tspan x="15" y="190">BDKQX0ZbbnmqZMMMM&amp;#%@@@@@@@@@@XhddpqmmbZ0X</tspan>
-<tspan x="15" y="210">DHKQX0Zbbmmqq&amp;x}LvcObZbQXZQD%MhkkddpqmnbZX</tspan>
-<tspan x="15" y="230">DHKX0ZZbnmmmqC:sUQKhjcpHDDBBBKOhhkddpqmnbZ</tspan>
-<tspan x="15" y="250">DHKX0ZZbnmmnh|`:1LJs,zZpdmb*nZ***hkdpqmnbZ</tspan>
-<tspan x="15" y="270">DHKX0Zbbnmmnhi,.;!) &apos;udJs}sJXq****kdpqmbZ0</tspan>
-<tspan x="15" y="290">DDKQXZZbnmmmnLl,Iujr1J0pv1LmKh***hkdpqmbZ0</tspan>
-<tspan x="15" y="310">BDHQX0ZbbnmmmZs&quot;nDmZ0K#M8h*HnO**hkdpqmnbZX</tspan>
-<tspan x="15" y="330">BDHKXX0Zbbnnmbd!}O}}YObXXmQK*kkkkddqmnbZ0X</tspan>
-<tspan x="15" y="350">BDDKQX0ZZbbbbbZsj1icmZmmQD$BnhkdddpmmbZ00X</tspan>
-<tspan x="15" y="370">BBDHKQX0ZZZbbbQ1iO0bbQ&amp;M&amp;XqW@DbqdpqmbZ00XX</tspan>
-<tspan x="15" y="390">$BDHKKQX0ZZZXQ8sl|zb$MWKdUm%@@@#8KZnnbZ0XQ</tspan>
-<tspan x="15" y="410">8$BDHKQXXQD$K0MYl()1*qOYCw$@@@@@@@@#8BHQQQ</tspan>
-<tspan x="15" y="430">88BDDDDB$WWDXXMH(l|rYxsxxk%@@@@@@@@@@@@@#&amp;</tspan>
-<tspan x="15" y="450">&amp;88&amp;8$$8&amp;&amp;BDHQ&amp;@HLsLxsxdQW%@%%@%###%%@@@@@</tspan>
-<tspan x="15" y="470">WB&amp;BDB88&amp;BDDDQW@##MWWM@@@W@%#WM@MMWMMM#%@@</tspan>
-<tspan x="15" y="490">&amp;D&amp;HD$88$DBBDQW@#8M#%@@%&amp;M%#MW%%WW&amp;&amp;WM##@@</tspan>
-<tspan x="15" y="510">8K&amp;HD$8$$B$$DQ&amp;@@WW#@@##&amp;%#MWM@WWMW&amp;&amp;#M%@@</tspan>
+<circle cx="25" cy="12" r="5" fill="#ff5f56"/><circle cx="45" cy="12" r="5" fill="#ffbd2e"/><circle cx="65" cy="12" r="5" fill="#27c93f"/>
+<text x="15" y="35" fill="#1f2328" class="aa">
+<tspan x="15" y="35">$$$&amp;WW*MMMBHHDDDDDDQQZQQQQQQQQDDDDHHBMM*W&amp;</tspan>
+<tspan x="15" y="55">$$&amp;WW*MBBHHDDQQQZQQQDDDQQZZZZZZQQQDDHBBM**</tspan>
+<tspan x="15" y="75">&amp;&amp;WW*MBHHDQQZZZZDHB*W&amp;&amp;*MMHDZZmmZZQQDHHBM*</tspan>
+<tspan x="15" y="95">&amp;WW*MBHHDQZZZZZH*&amp;$#%@@%%##$*QmmmmZQQDHHBM</tspan>
+<tspan x="15" y="115">&amp;W*MBHHDQZZmZQB*&amp;###%@@@@@@@%&amp;DmppmZZQDHBB</tspan>
+<tspan x="15" y="135">W**MBHDQQZmmQ*WWW$#%@@@@@@@@@%&amp;QpppmZZQDHB</tspan>
+<tspan x="15" y="155">W*MBHDDQZmmZB$&amp;W&amp;##%@@@@@@@@@@$DqqqpmZZQDH</tspan>
+<tspan x="15" y="175">W*MBHDQZZmpZ*####%%@@@@@@@@@@%WmkkqqpmZQDH</tspan>
+<tspan x="15" y="195">WMBHDQQZmmpmH&amp;&amp;***W&amp;$#####%%@#Dk=kkqppmZQD</tspan>
+<tspan x="15" y="215">*MBHDQZZmpppmHpkpppZQDHM*MW&amp;#*p=+=kkqpmZQD</tspan>
+<tspan x="15" y="235">*MBHQQZmmppqq=;;+pp=;~mHHBBM*Dk+++=kkqpmZQ</tspan>
+<tspan x="15" y="255">*MBDQZZmmppq=:.&apos;;~+;&apos;-qpqpmpQZ=~~++=kqpmZZ</tspan>
+<tspan x="15" y="275">*MBHQQZmmppp=:. ..&apos;&apos;&apos;-k+;:;=Zp+~~++=kqpmZQ</tspan>
+<tspan x="15" y="295">*MBHDQZmmpppq~&apos;.&apos;:;-~kZm~:-pQk+~~+=kkqpmZQ</tspan>
+<tspan x="15" y="315">W*MHDQZZmmpppq;&apos;;kkkqQMMDkqDm=++++=kqpmZQD</tspan>
+<tspan x="15" y="335">W*MBHDQZZmmmmp=::~~~=mDBHDBHq=++==kqppmZQD</tspan>
+<tspan x="15" y="355">W*MBHDDQZZmmmmq-&apos;:;~qZQHMM*MQqk==kkqpmZQDD</tspan>
+<tspan x="15" y="375">WW*MBHDQQZZZZQZ~&apos;-kmQBWWMHH&amp;$MQZppppmZQQDD</tspan>
+<tspan x="15" y="395">&amp;W*MBHHDDQQDDHH=&apos;:+pH*MHpqD#@%#&amp;*BDQQQDDDH</tspan>
+<tspan x="15" y="415">$&amp;W*MBBHBB**BB*q:.&apos;;=pk~-=M%@@@@%##&amp;W*MMMH</tspan>
+<tspan x="15" y="435">$&amp;WW***WW$$*BMWB~:&apos;&apos;:;:;~Z$@@@@@@@@@%%%#$&amp;</tspan>
+<tspan x="15" y="455">$&amp;&amp;&amp;&amp;&amp;&amp;$$$&amp;*MM&amp;$Bp====qmH&amp;%@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="475">#&amp;&amp;&amp;W&amp;$$$&amp;WW**$%#&amp;W*WW&amp;$#%@@@@@@@%%%@@@@@@</tspan>
+<tspan x="15" y="495">#W&amp;WW&amp;$$&amp;WWW**$@@%%@@@@@%@@@@%@@%%%%%%@@@@</tspan>
+<tspan x="15" y="515">&amp;M#M*&amp;$&amp;&amp;W&amp;&amp;WB$@@%%@@@@%#@@%%%@%%@%##@%@@@</tspan>
 </text>
-<text x="420" y="40" fill="#1f2328">
-<tspan x="420" y="40" class="header info-line-1">shubham@engineer</tspan><tspan class="separator"> ─────────────────────────────────</tspan>
-<tspan x="420" y="60" class="info-line-2"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AI Engineer / Data Engineer</tspan></tspan>
-<tspan x="420" y="80" class="info-line-3"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................. </tspan><tspan class="badge">🟢 Open to Work</tspan></tspan>
-<tspan x="420" y="100" class="info-line-4"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Windows, macOS, iOS, Ubuntu</tspan></tspan>
-<tspan x="420" y="120" class="info-line-5"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">VS Code, PyCharm, IntelliJ</tspan></tspan>
-<tspan x="420" y="140" class="info-line-6"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Since Dec 2021 on GitHub</tspan></tspan>
-<tspan x="420" y="160" class="info-line-7"><tspan class="cc">. </tspan></tspan>
-<tspan x="420" y="180" class="info-line-8"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, SQL, JavaScript</tspan></tspan>
-<tspan x="420" y="200" class="info-line-9"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PyTorch, TensorFlow, FastAPI</tspan></tspan>
-<tspan x="420" y="220" class="info-line-10"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Docker, K8s, CI/CD, Git</tspan></tspan>
-<tspan x="420" y="240" class="info-line-11"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">English, Hindi, German (Basic)</tspan></tspan>
-<tspan x="420" y="260" class="info-line-12"><tspan class="cc">. </tspan></tspan>
-<tspan x="420" y="280" class="info-line-13"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">ML, Deep Learning, NLP, GenAI</tspan></tspan>
-<tspan x="420" y="300" class="info-line-14"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Pipelines, ETL, Analytics</tspan></tspan>
-<tspan x="420" y="340" class="info-line-15">- GitHub Stats<tspan class="separator"> ──────────────────────────────────────</tspan></tspan>
-<tspan x="420" y="360" class="info-line-16"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">18</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="420" y="380" class="info-line-17"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">254</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="420" y="400" class="info-line-18"><tspan class="cc">. </tspan><tspan class="key">PRs</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">17</tspan>  | <tspan class="key">Issues</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">8</tspan></tspan>
-<tspan x="420" y="420" class="info-line-19"><tspan class="cc">. </tspan><tspan class="key">Total Contributions</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">287</tspan></tspan>
-<tspan x="420" y="460" class="info-line-20">- Contact<tspan class="separator"> ───────────────────────────────────────────</tspan></tspan>
-<tspan x="420" y="480" class="info-line-20"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PROGRAMMER-DUMMY</tspan></tspan>
-<tspan x="420" y="500" class="info-line-20"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">shubham-veer</tspan></tspan>
-<tspan x="420" y="520" class="info-line-20"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Coming Soon</tspan><tspan class="cursor">█</tspan></tspan>
+<text x="420" y="35" fill="#1f2328">
+<tspan x="420" y="35" class="h il1">shubham@engineer</tspan><tspan class="s"> ─────────────────────────────────</tspan>
+<tspan x="420" y="55" class="il2"><tspan class="c">. </tspan><tspan class="k">Role</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">AI Engineer / Data Engineer</tspan></tspan>
+<tspan x="420" y="75" class="il3"><tspan class="c">. </tspan><tspan class="k">Status</tspan>:<tspan class="c"> ................. </tspan><tspan class="g">Open to Work</tspan></tspan>
+<tspan x="420" y="95" class="il4"><tspan class="c">. </tspan><tspan class="k">OS</tspan>:<tspan class="c"> ..................... </tspan><tspan class="v">Windows, macOS, iOS, Ubuntu</tspan></tspan>
+<tspan x="420" y="115" class="il5"><tspan class="c">. </tspan><tspan class="k">IDE</tspan>:<tspan class="c"> .................... </tspan><tspan class="v">VS Code, PyCharm, IntelliJ</tspan></tspan>
+<tspan x="420" y="135" class="il6"><tspan class="c">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="c"> ................. </tspan><tspan class="v">Since Dec 2021 on GitHub</tspan></tspan>
+<tspan x="420" y="155" class="il7"><tspan class="c">. </tspan></tspan>
+<tspan x="420" y="175" class="il8"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>.<tspan class="k">Programming</tspan>:<tspan class="c"> ... </tspan><tspan class="v">Python, SQL, JavaScript</tspan></tspan>
+<tspan x="420" y="195" class="il9"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>.<tspan class="k">Frameworks</tspan>:<tspan class="c"> .... </tspan><tspan class="v">PyTorch, TensorFlow, FastAPI</tspan></tspan>
+<tspan x="420" y="215" class="il10"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>.<tspan class="k">DevOps</tspan>:<tspan class="c"> ........ </tspan><tspan class="v">Docker, K8s, CI/CD, Git</tspan></tspan>
+<tspan x="420" y="235" class="il11"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>.<tspan class="k">Real</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">English, Hindi, German (Basic)</tspan></tspan>
+<tspan x="420" y="255" class="il12"><tspan class="c">. </tspan></tspan>
+<tspan x="420" y="275" class="il13"><tspan class="c">. </tspan><tspan class="k">Interests</tspan>.<tspan class="k">AI</tspan>:<tspan class="c"> ........... </tspan><tspan class="v">ML, Deep Learning, NLP, GenAI</tspan></tspan>
+<tspan x="420" y="295" class="il14"><tspan class="c">. </tspan><tspan class="k">Interests</tspan>.<tspan class="k">Data</tspan>:<tspan class="c"> ......... </tspan><tspan class="v">Pipelines, ETL, Analytics</tspan></tspan>
+<tspan x="420" y="335" class="il15">- GitHub Stats<tspan class="s"> ──────────────────────────────────────</tspan></tspan>
+<tspan x="420" y="355" class="il16"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">18</tspan> | <tspan class="k">Stars</tspan>:<tspan class="c"> ........... </tspan><tspan class="v">2</tspan></tspan>
+<tspan x="420" y="375" class="il17"><tspan class="c">. </tspan><tspan class="k">Commits</tspan>:<tspan class="c"> ............. </tspan><tspan class="v">254</tspan> | <tspan class="k">Followers</tspan>:<tspan class="c"> ... </tspan><tspan class="v">1</tspan></tspan>
+<tspan x="420" y="395" class="il18"><tspan class="c">. </tspan><tspan class="k">PRs</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">17</tspan>  | <tspan class="k">Issues</tspan>:<tspan class="c"> ...... </tspan><tspan class="v">8</tspan></tspan>
+<tspan x="420" y="415" class="il19"><tspan class="c">. </tspan><tspan class="k">Total Contributions</tspan>:<tspan class="c"> ... </tspan><tspan class="v">287</tspan></tspan>
+<tspan x="420" y="455" class="il20">- Contact<tspan class="s"> ───────────────────────────────────────────</tspan></tspan>
+<tspan x="420" y="475" class="il21"><tspan class="c">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">PROGRAMMER-DUMMY</tspan></tspan>
+<tspan x="420" y="495" class="il21"><tspan class="c">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">shubham-veer-3609a7404</tspan></tspan>
+<tspan x="420" y="515" class="il21"><tspan class="c">. </tspan><tspan class="k">Portfolio</tspan>:<tspan class="c"> ......... </tspan><tspan class="v">Coming Soon</tspan><tspan class="cr">_</tspan></tspan>
 </text>
 </svg>
