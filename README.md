@@ -104,19 +104,19 @@ me = ShubhamVeer()
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/MinusAgent">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusAgent"/>
+  <a href="https://github.com/PROGRAMMER-DUMMY/PayFlowDQI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=PayFlowDQI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="PayFlowDQI"/>
   </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/MinusResearch">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusResearch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusResearch"/>
+  <a href="https://github.com/PROGRAMMER-DUMMY/KaggleCompSecurity">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=KaggleCompSecurity&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="KaggleCompSecurity"/>
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/PROGRAMMER-DUMMY/MinusAgent">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusAgent"/>
+  </a>
   <a href="https://github.com/PROGRAMMER-DUMMY/QuantCoreWeb">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=QuantCoreWeb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="QuantCoreWeb"/>
-  </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/fastgrill">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=fastgrill&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="fastgrill"/>
   </a>
 </p>
 
