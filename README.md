@@ -119,21 +119,21 @@ me = ShubhamVeer()
 
 | System | Architecture & Technical Highlights |
 |---|---|
-| 📈 **[QuantCore](https://github.com/PROGRAMMER-DUMMY/QuantCore)** | **Hybrid Lambda Trading Bot**: Low-latency WebSockets streaming speed layer (Alpaca, Binance, IB), Polars/PyArrow batch feature engine, PyTorch/Optuna ML, Tailscale mesh network, ChatOps via Telegram & Textual TUI. |
-| 🛡️ **[minusops](https://github.com/PROGRAMMER-DUMMY/minusops)** | **Governed Multi-Cloud Terraform Control Plane**: Enforces `verify -> plan -> SHA-256 approval -> apply` deploy gates, `grill-me` requirements gathering, AWS BCM Pricing API FinOps cost forecasting, and Plotly Dash console. |
-| 🧠 **[interns](https://github.com/PROGRAMMER-DUMMY/interns)** | **Autoresearch Enterprise KPI-to-SQL Governance Platform**: Translates business language into verified SQL (DuckDB & Databricks Unity Catalog) using evidence-backed term mapping, FK join contracts, and tamper-evident proof validation. |
-| 🤖 **[KaggleAgentCli](https://github.com/PROGRAMMER-DUMMY/KaggleResearcher)** | **Goal-Driven Autonomous Kaggle Agent (`kagent`)**: Autonomous multi-agent engine (`agy`, `claude`, `codex`, `.pi`) that takes high-level goals and executes deep web research, knowledge compaction, hyperparameter tuning, model evolution, and persistent blackboard ledger storage. |
-| 🔍 **[MinusEngine](https://github.com/PROGRAMMER-DUMMY/MinusEngine)** | **Enterprise Multimodal Graph-RAG Engine**: Knowledge Graph triple extraction, BM25 + Dense n-gram + RRF (Reciprocal Rank Fusion) hybrid search, PII masking, and execution tracing. |
-| ⚡ **[PayFlowDQI](https://github.com/PROGRAMMER-DUMMY/PayFlowDQI)** | **Streaming Data Quality Pipeline**: Apache Kafka event streaming $\rightarrow$ Snowflake $\rightarrow$ dbt DQI scoring math $\rightarrow$ threshold-based alerting & Terraform MSK modules. |
+| **[QuantCore](https://github.com/PROGRAMMER-DUMMY/QuantCore)** | **Hybrid Lambda Trading Bot**: Low-latency WebSockets streaming speed layer (Alpaca, Binance, IB), Polars/PyArrow batch feature engine, PyTorch/Optuna ML, Tailscale mesh network, ChatOps via Telegram & Textual TUI. |
+| **[minusops](https://github.com/PROGRAMMER-DUMMY/minusops)** | **Governed Multi-Cloud Terraform Control Plane**: Enforces `verify -> plan -> SHA-256 approval -> apply` deploy gates, `grill-me` requirements gathering, AWS BCM Pricing API FinOps cost forecasting, and Plotly Dash console. |
+| **[interns](https://github.com/PROGRAMMER-DUMMY/interns)** | **Autoresearch Enterprise KPI-to-SQL Governance Platform**: Translates business language into verified SQL (DuckDB & Databricks Unity Catalog) using evidence-backed term mapping, FK join contracts, and tamper-evident proof validation. |
+| **[KaggleAgentCli](https://github.com/PROGRAMMER-DUMMY/KaggleResearcher)** | **Goal-Driven Autonomous Kaggle Agent (`kagent`)**: Autonomous multi-agent engine (`agy`, `claude`, `codex`, `.pi`) that takes high-level goals and executes deep web research, knowledge compaction, hyperparameter tuning, model evolution, and persistent blackboard ledger storage. |
+| **[MinusEngine](https://github.com/PROGRAMMER-DUMMY/MinusEngine)** | **Enterprise Multimodal Graph-RAG Engine**: Knowledge Graph triple extraction, BM25 + Dense n-gram + RRF (Reciprocal Rank Fusion) hybrid search, PII masking, and execution tracing. |
+| **[PayFlowDQI](https://github.com/PROGRAMMER-DUMMY/PayFlowDQI)** | **Streaming Data Quality Pipeline**: Apache Kafka event streaming $\rightarrow$ Snowflake $\rightarrow$ dbt DQI scoring math $\rightarrow$ threshold-based alerting & Terraform MSK modules. |
 
 ## Autonomous Kaggle Agent Workflows (`kagent`)
 
 My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer)) and competition benchmarks are **100% autonomously managed and driven by `KaggleAgentCli` (`kagent`)**:
-- 🎯 **Goal-Driven Automation**: Give `kagent` a high-level objective, and its **Strategist Loop** dispatches specialized agents (**Researcher**, **Experimenter**, **Analyst**, **Reporter**) without human micro-management.
-- 🌐 **Deep Web & Knowledge Synthesis**: Conducts autonomous online deep research, technical paper analysis, and knowledge compaction.
-- 📓 **Blackboard & Information Storage**: Maintains append-only durable ledgers of hypotheses, local validation CV metrics, leaderboard scores, and error analysis.
-- 🔄 **Continuous Tuning & Evolution**: Performs hyperparameter optimization, feature engineering, GBDT ensembling (XGBoost, LightGBM, CatBoost), and model evolution.
-- ⚡ **CLI Engine Powered**: Driven underlying execution via `agy` (Antigravity CLI), `claude code`, `codex`, and `.pi` harnesses.
+- **Goal-Driven Automation**: Give `kagent` a high-level objective, and its **Strategist Loop** dispatches specialized agents (**Researcher**, **Experimenter**, **Analyst**, **Reporter**) without human micro-management.
+- **Deep Web & Knowledge Synthesis**: Conducts autonomous online deep research, technical paper analysis, and knowledge compaction.
+- **Blackboard & Information Storage**: Maintains append-only durable ledgers of hypotheses, local validation CV metrics, leaderboard scores, and error analysis.
+- **Continuous Tuning & Evolution**: Performs hyperparameter optimization, feature engineering, GBDT ensembling (XGBoost, LightGBM, CatBoost), and model evolution.
+- **CLI Engine Powered**: Driven underlying execution via `agy` (Antigravity CLI), `claude code`, `codex`, and `.pi` harnesses.
 
 ## GitHub & Kaggle Stats
 
