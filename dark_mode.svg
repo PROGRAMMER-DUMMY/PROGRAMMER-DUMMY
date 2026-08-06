@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="620px" font-size="13px">
 <style>
 @font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;size-adjust:109%}
-.k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.h{fill:#58a6ff;font-weight:bold}.s{fill:#8b949e}.g{fill:#3fb950}.a{fill:#58a6ff}
+.k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.h{fill:#58a6ff;font-weight:bold}.s{fill:#8b949e}.g{fill:#3fb950}.a{fill:#c9d1d9}
 text,tspan{white-space:pre}
 @keyframes fi{from{opacity:0}to{opacity:1}}
 @keyframes si{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
@@ -110,9 +110,11 @@ text,tspan{white-space:pre}
 </text>
 
 <clipPath id="tickerClip"><rect x="360" y="472" width="605" height="20"/></clipPath>
-<g clip-path="url(#tickerClip)" class="ticker">
+<g clip-path="url(#tickerClip)">
+<g class="ticker">
 <text x="360" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
 <text x="1085" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
+</g>
 </g>
 
 </svg>
