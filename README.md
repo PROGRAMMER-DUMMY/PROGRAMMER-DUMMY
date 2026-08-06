@@ -84,19 +84,27 @@ me = ShubhamVeer()
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/MinusEngine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusEngine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusEngine"/>
+  <a href="https://github.com/PROGRAMMER-DUMMY/minusops">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=minusops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="minusops"/>
   </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/PayFlowDQI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=PayFlowDQI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="PayFlowDQI"/>
+  <a href="https://github.com/PROGRAMMER-DUMMY/QuantCore">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=QuantCore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="QuantCore"/>
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/PROGRAMMER-DUMMY/interns">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=interns&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="interns"/>
+  </a>
+  <a href="https://github.com/PROGRAMMER-DUMMY/MinusEngine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusEngine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusEngine"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PROGRAMMER-DUMMY/PayFlowDQI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=PayFlowDQI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="PayFlowDQI"/>
+  </a>
   <a href="https://github.com/PROGRAMMER-DUMMY/dbt_Snowflake_airflow">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=dbt_Snowflake_airflow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="dbt_Snowflake_airflow"/>
-  </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/KaggleCompSecurity">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=KaggleCompSecurity&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="KaggleCompSecurity"/>
   </a>
 </p>
 
