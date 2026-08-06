@@ -30,9 +30,10 @@ class ShubhamVeer:
             "QuantCore (Quant Algorithmic Trading Bot & Risk Engine)",
             "MinusOps (Plan-Bound Multi-Cloud Terraform Control Plane)",
             "Autoresearch / interns (KPI-to-SQL Governance Platform)",
+            "KaggleAgentCli / kagent (Autonomous Kaggle Research & Competition Agent)",
             "MinusEngine (Enterprise Multimodal Graph-RAG Engine)"
         ]
-        self.agentic_tools = ["Claude Code", "Antigravity CLI", "Gemini CLI", "Codex"]
+        self.agentic_tools = ["kagent", "Claude Code", "Antigravity CLI", "Gemini CLI", "Codex"]
         self.cloud_platforms = ["AWS", "Snowflake", "Databricks", "Google Cloud / BigQuery"]
         self.languages = ["Python", "SQL", "PySpark", "HCL"]
         self.engineering_methods = [
@@ -43,7 +44,7 @@ class ShubhamVeer:
         ]
     
     def kaggle_profile(self):
-        return "https://www.kaggle.com/shubhamveer"
+        return "https://www.kaggle.com/shubhamveer" # 100% autonomously driven by kagent CLI
 
 me = ShubhamVeer()
 ```
@@ -90,29 +91,47 @@ me = ShubhamVeer()
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/minusops">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=minusops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="minusops"/>
-  </a>
   <a href="https://github.com/PROGRAMMER-DUMMY/QuantCore">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=QuantCore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="QuantCore"/>
+  </a>
+  <a href="https://github.com/PROGRAMMER-DUMMY/minusops">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=minusops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="minusops"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/PROGRAMMER-DUMMY/interns">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=interns&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="interns"/>
   </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/MinusEngine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusEngine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusEngine"/>
+  <a href="https://github.com/PROGRAMMER-DUMMY/KaggleResearcher">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=KaggleResearcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="KaggleAgentCli"/>
   </a>
 </p>
 <p align="center">
+  <a href="https://github.com/PROGRAMMER-DUMMY/MinusEngine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusEngine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusEngine"/>
+  </a>
   <a href="https://github.com/PROGRAMMER-DUMMY/PayFlowDQI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=PayFlowDQI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="PayFlowDQI"/>
   </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/dbt_Snowflake_airflow">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=dbt_Snowflake_airflow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="dbt_Snowflake_airflow"/>
-  </a>
 </p>
+
+## System Architecture Matrix
+
+| System | Architecture & Technical Highlights |
+|---|---|
+| 📈 **[QuantCore](https://github.com/PROGRAMMER-DUMMY/QuantCore)** | **Hybrid Lambda Trading Bot**: Low-latency WebSockets streaming speed layer (Alpaca, Binance, IB), Polars/PyArrow batch feature engine, PyTorch/Optuna ML, Tailscale mesh network, ChatOps via Telegram & Textual TUI. |
+| 🛡️ **[minusops](https://github.com/PROGRAMMER-DUMMY/minusops)** | **Governed Multi-Cloud Terraform Control Plane**: Enforces `verify -> plan -> SHA-256 approval -> apply` deploy gates, `grill-me` requirements gathering, AWS BCM Pricing API FinOps cost forecasting, and Plotly Dash console. |
+| 🧠 **[interns](https://github.com/PROGRAMMER-DUMMY/interns)** | **Autoresearch Enterprise KPI-to-SQL Governance Platform**: Translates business language into verified SQL (DuckDB & Databricks Unity Catalog) using evidence-backed term mapping, FK join contracts, and tamper-evident proof validation. |
+| 🤖 **[KaggleAgentCli](https://github.com/PROGRAMMER-DUMMY/KaggleResearcher)** | **Autonomous Kaggle Research & Competition Agent (`kagent`)**: Multi-agent Strategist loop (Researcher, Experimenter, Analyst, Reporter) driving Kaggle API, shared ledger blackboards, CV/LB tracking, and autonomous leaderboard climbing. |
+| 🔍 **[MinusEngine](https://github.com/PROGRAMMER-DUMMY/MinusEngine)** | **Enterprise Multimodal Graph-RAG Engine**: Knowledge Graph triple extraction, BM25 + Dense n-gram + RRF (Reciprocal Rank Fusion) hybrid search, PII masking, and execution tracing. |
+| ⚡ **[PayFlowDQI](https://github.com/PROGRAMMER-DUMMY/PayFlowDQI)** | **Streaming Data Quality Pipeline**: Apache Kafka event streaming $\rightarrow$ Snowflake $\rightarrow$ dbt DQI scoring math $\rightarrow$ threshold-based alerting & Terraform MSK modules. |
+
+## Autonomous Kaggle Agent Workflows
+
+My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer)) and all competition workflows are **100% autonomously driven by my `KaggleAgentCli` (`kagent`) platform**:
+- **Strategist Loop**: Adaptively orchestrates specialized sub-agents (**Researcher**, **Experimenter**, **Analyst**, **Reporter**).
+- **Shared Ledger Blackboard**: Maintains durable ledgers of hypotheses, local validation CV scores, public LB scores, and error analyses.
+- **Autonomous Ensembling & Security**: Performs red-team AI agent security attacks, metric-specific probability reweighting, and GBDT ensembling (XGBoost, LightGBM, CatBoost) directly over Kaggle CLI.
 
 ## GitHub & Kaggle Stats
 
@@ -150,7 +169,7 @@ me = ShubhamVeer()
 </p>
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling"/>
 
 <p align="center">
   <i>"The best way to predict the future is to build it." — Alan Kay</i>

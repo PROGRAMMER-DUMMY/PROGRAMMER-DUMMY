@@ -31,6 +31,7 @@ text,tspan{white-space:pre}
 .il21{animation:si .4s ease-out 2.30s both}
 .il22{animation:si .4s ease-out 2.40s both}
 .il23{animation:si .4s ease-out 2.50s both}
+.il24{animation:si .4s ease-out 2.60s both}
 .cr{animation:bk 1s step-end infinite;fill:#0969da}
 </style>
 <rect width="985px" height="540px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1"/>
@@ -46,7 +47,7 @@ text,tspan{white-space:pre}
 <tspan x="360" y="35" class="h il1">shubham@engineer</tspan><tspan class="s"> ─────────────────────────────────</tspan>
 <tspan x="360" y="55" class="il2"><tspan class="c">. </tspan><tspan class="k">Role</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">AI Engineer | Data Engineer</tspan></tspan>
 <tspan x="360" y="75" class="il3"><tspan class="c">. </tspan><tspan class="k">Status</tspan>:<tspan class="c"> ................. </tspan><tspan class="g">Open to Work</tspan></tspan>
-<tspan x="360" y="95" class="il4"><tspan class="c">. </tspan><tspan class="k">Agentic.Tools</tspan>:<tspan class="c"> ......... </tspan><tspan class="v">Claude Code, Antigravity, Gemini CLI</tspan></tspan>
+<tspan x="360" y="95" class="il4"><tspan class="c">. </tspan><tspan class="k">Agentic.Tools</tspan>:<tspan class="c"> ......... </tspan><tspan class="v">kagent, Claude Code, Antigravity, Gemini CLI</tspan></tspan>
 <tspan x="360" y="115" class="il5"><tspan class="c">. </tspan><tspan class="k">Cloud.Platforms</tspan>:<tspan class="c"> ....... </tspan><tspan class="v">AWS, Snowflake, Databricks, BigQuery</tspan></tspan>
 <tspan x="360" y="135" class="il6"><tspan class="c">. </tspan><tspan class="k">IDE</tspan>:<tspan class="c"> .................... </tspan><tspan class="v">VS Code, PyCharm, IntelliJ</tspan></tspan>
 <tspan x="360" y="155" class="il7"><tspan class="c">. </tspan></tspan>
@@ -59,7 +60,7 @@ text,tspan{white-space:pre}
 <tspan x="360" y="295" class="il14"><tspan class="c">. </tspan><tspan class="k">Methods</tspan>.<tspan class="k">Data</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">KPI-to-SQL Autoresearch, Medallion, FinOps</tspan></tspan>
 <tspan x="360" y="335" class="il15">- GitHub &amp; Kaggle Stats<tspan class="s"> ────────────────────────────</tspan></tspan>
 <tspan x="360" y="355" class="il16"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer</tspan></tspan>
-<tspan x="360" y="375" class="il17"><tspan class="c">. </tspan><tspan class="k">Kaggle Focus</tspan>:<tspan class="c"> ....... </tspan><tspan class="v">GBDT Ensembling, AI Agent Security</tspan></tspan>
+<tspan x="360" y="375" class="il17"><tspan class="c">. </tspan><tspan class="k">Kaggle Agent</tspan>:<tspan class="c"> ........ </tspan><tspan class="v">Autonomously driven by kagent CLI</tspan></tspan>
 <tspan x="360" y="415" class="il18">- Contact<tspan class="s"> ───────────────────────────────────────────</tspan></tspan>
 <tspan x="360" y="435" class="il19"><tspan class="c">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">PROGRAMMER-DUMMY</tspan></tspan>
 <tspan x="360" y="455" class="il20"><tspan class="c">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">shubham-veer-3609a7404</tspan></tspan>
