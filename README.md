@@ -30,9 +30,9 @@ class ShubhamVeer:
         self.cloud_platforms = ["AWS", "Snowflake", "Databricks", "Google Cloud / BigQuery"]
         self.languages = ["Python", "SQL", "PySpark", "HCL"]
         self.engineering_methods = [
+            "KPI-to-SQL Governance & Autoresearch (DuckDB / Databricks)",
             "Graph-RAG & RRF Hybrid Search",
             "Medallion Architecture (Bronze/Silver/Gold)",
-            "Data Quality Index (DQI) Math & Anomaly Alerts",
             "Plan-Bound Governed Deploys & FinOps"
         ]
     
