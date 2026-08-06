@@ -26,7 +26,7 @@ class ShubhamVeer:
         self.name = "Shubham Veer"
         self.role = "AI Engineer | Data Engineer | Forward Deployed Engineer"
         self.status = "Open to Work"
-        self.languages = ["Python", "SQL", "JavaScript"]
+        self.languages = ["Python", "SQL"]
         self.interests = ["Machine Learning", "Deep Learning", "NLP", "GenAI",
                           "Data Pipelines", "ETL", "Analytics"]
     
@@ -46,7 +46,6 @@ me = ShubhamVeer()
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <!-- AI/ML -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
