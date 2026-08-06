@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="620px" font-size="13px">
 <style>
 @font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;size-adjust:109%}
-.k{fill:#bf8700}.v{fill:#0550ae}.c{fill:#8c959f}.h{fill:#0969da;font-weight:bold}.s{fill:#afb8c1}.g{fill:#1a7f37}.a{fill:#0969da}
+.k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.h{fill:#58a6ff;font-weight:bold}.s{fill:#8b949e}.g{fill:#3fb950}.a{fill:#58a6ff}
 text,tspan{white-space:pre}
 @keyframes fi{from{opacity:0}to{opacity:1}}
 @keyframes si{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
@@ -37,9 +37,10 @@ text,tspan{white-space:pre}
 .il27{animation:si .4s ease-out 2.31s both}
 .il28{animation:si .4s ease-out 2.39s both}
 .il29{animation:si .4s ease-out 2.47s both}
-.cr{animation:bk 1s step-end infinite;fill:#0969da}
+.cr{animation:bk 1s step-end infinite;fill:#58a6ff}
+.ticker{animation:tk 16s linear infinite}@keyframes tk{from{transform:translateX(0)}to{transform:translateX(-725px)}}
 </style>
-<rect width="985px" height="620px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1"/>
+<rect width="985px" height="620px" fill="#161b22" rx="15"/>
 
 <!-- ASCII Portrait (Andrew6rant Style) -->
 <text x="20" y="35" class="a aa">
@@ -74,7 +75,7 @@ text,tspan{white-space:pre}
 </text>
 
 <!-- System Info Terminal Panel -->
-<text x="360" y="35" fill="#1f2328">
+<text x="360" y="35" fill="#c9d1d9">
 <tspan x="360" y="35" class="h il1">shubham@engineer</tspan><tspan class="s"> ─────────────────────────────────</tspan>
 <tspan x="360" y="53" class="il2"><tspan class="c">. </tspan><tspan class="k">Role</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">AI Engineer | Data Engineer</tspan></tspan>
 <tspan x="360" y="71" class="il3"><tspan class="c">. </tspan><tspan class="k">Status</tspan>:<tspan class="c"> ................. </tspan><tspan class="g">Open to Work</tspan></tspan>
@@ -100,11 +101,18 @@ text,tspan{white-space:pre}
 <tspan x="360" y="431" class="il23"><tspan class="c">. </tspan><tspan class="k">Data.Methods</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">KPI-to-SQL Autoresearch, Medallion, FinOps</tspan></tspan>
 <tspan x="360" y="449" class="il24"><tspan class="c">. </tspan></tspan>
 <tspan x="360" y="467" class="il25">- GitHub &amp; Kaggle Stats<tspan class="s"> ────────────────────────────</tspan></tspan>
-<tspan x="360" y="485" class="il26"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan></tspan>
+
 <tspan x="360" y="503" class="il27"><tspan class="c">. </tspan></tspan>
 <tspan x="360" y="521" class="il28">- Contact<tspan class="s"> ───────────────────────────────────────────</tspan></tspan>
 <tspan x="360" y="539" class="il29"><tspan class="c">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">PROGRAMMER-DUMMY</tspan></tspan>
 <tspan x="360" y="557" class="il29"><tspan class="c">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">shubham-veer-3609a7404</tspan></tspan>
 <tspan x="360" y="575" class="il29"><tspan class="c">. </tspan><tspan class="k">Kaggle</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">kaggle.com/shubhamveer</tspan><tspan class="cr">_</tspan></tspan>
 </text>
+
+<clipPath id="tickerClip"><rect x="360" y="472" width="605" height="20"/></clipPath>
+<g clip-path="url(#tickerClip)" class="ticker">
+<text x="360" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
+<text x="1085" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
+</g>
+
 </svg>
