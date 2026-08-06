@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=AI+Engineer+%7C+Data+Engineer;Graph-RAG+%7C+Medallion+Data+Pipelines;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,56 +20,57 @@
 
 ```python
 class ShubhamVeer:
-    """AI & Data Engineer passionate about building intelligent systems."""
+    """AI & Data Engineer building intelligent systems, Graph-RAG engines & governed pipelines."""
     
     def __init__(self):
         self.name = "Shubham Veer"
         self.role = "AI Engineer | Data Engineer | Forward Deployed Engineer"
         self.status = "Open to Work"
-        self.languages = ["Python", "SQL"]
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "GenAI",
-                          "Data Pipelines", "ETL", "Analytics"]
+        self.agentic_tools = ["Claude Code", "Antigravity CLI", "Gemini CLI", "Codex"]
+        self.cloud_platforms = ["AWS", "Snowflake", "Databricks", "Google Cloud / BigQuery"]
+        self.languages = ["Python", "SQL", "PySpark", "HCL"]
+        self.engineering_methods = [
+            "Graph-RAG & RRF Hybrid Search",
+            "Medallion Architecture (Bronze/Silver/Gold)",
+            "Data Quality Index (DQI) Math & Anomaly Alerts",
+            "Plan-Bound Governed Deploys & FinOps"
+        ]
     
-    def currently_learning(self):
-        return ["LLM Fine-tuning", "MLOps", "System Design"]
-    
-    def fun_fact(self):
-        return "I speak English, Hindi, and a bit of German!"
+    def kaggle_profile(self):
+        return "https://www.kaggle.com/shubhamveer"
 
 me = ShubhamVeer()
 ```
 
-## Tech Stack
+## Tech Stack & Cloud Ecosystem
 
 <p align="center">
 
-<!-- Languages -->
+<!-- Cloud Services -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
+
+<!-- Languages & Frameworks -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
 
-<!-- AI/ML -->
+<!-- AI & Agentic Tooling -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/>
 
-<!-- DevOps & Tools -->
+<!-- Infrastructure & DevOps -->
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-
-<!-- Cloud & Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </p>
 
@@ -79,26 +80,6 @@ me = ShubhamVeer()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/github-snake.svg" width="100%"/>
 </picture>
-
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PROGRAMMER-DUMMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PROGRAMMER-DUMMY&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROGRAMMER-DUMMY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROGRAMMER-DUMMY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PROGRAMMER-DUMMY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
 
 ## Featured Projects
 
@@ -119,6 +100,20 @@ me = ShubhamVeer()
   </a>
 </p>
 
+## GitHub & Kaggle Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PROGRAMMER-DUMMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PROGRAMMER-DUMMY&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROGRAMMER-DUMMY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</p>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROGRAMMER-DUMMY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
 ## Let's Connect
 
 <p align="center">
@@ -127,6 +122,9 @@ me = ShubhamVeer()
   </a>
   <a href="https://www.linkedin.com/in/shubham-veer-3609a7404/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/shubhamveer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
