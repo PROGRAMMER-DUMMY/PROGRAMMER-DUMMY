@@ -20,12 +20,18 @@
 
 ```python
 class ShubhamVeer:
-    """AI & Data Engineer building intelligent systems, Graph-RAG engines & governed pipelines."""
+    """AI & Data Systems Engineer building Quant Trading Bots, Governed IaC Control Planes & Graph-RAG Engines."""
     
     def __init__(self):
         self.name = "Shubham Veer"
         self.role = "AI Engineer | Data Engineer | Forward Deployed Engineer"
         self.status = "Open to Work"
+        self.key_systems = [
+            "QuantCore (Quant Algorithmic Trading Bot & Risk Engine)",
+            "MinusOps (Plan-Bound Multi-Cloud Terraform Control Plane)",
+            "Autoresearch / interns (KPI-to-SQL Governance Platform)",
+            "MinusEngine (Enterprise Multimodal Graph-RAG Engine)"
+        ]
         self.agentic_tools = ["Claude Code", "Antigravity CLI", "Gemini CLI", "Codex"]
         self.cloud_platforms = ["AWS", "Snowflake", "Databricks", "Google Cloud / BigQuery"]
         self.languages = ["Python", "SQL", "PySpark", "HCL"]
