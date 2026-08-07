@@ -1,8 +1,8 @@
 <!-- Neofetch Header: animated ASCII-assembly portrait (WebP) + terminal info panel (SVG) -->
 <a href="https://github.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY">
-<table><tr>
-<td><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/portrait.webp" height="500" alt="Shubham Veer"/></td>
-<td><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/dark_mode.svg" height="500" alt="AI Engineer | Data Engineer | Forward Deployed Engineer"/></td>
+<table style="border-collapse:collapse;border:none;"><tr>
+<td style="padding:0;margin:0;border:none;line-height:0;"><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/portrait.webp" height="500" alt="Shubham Veer" style="display:block;border:none;"/></td>
+<td style="padding:0;margin:0;border:none;line-height:0;"><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/dark_mode.svg" height="500" alt="AI Engineer | Data Engineer | Forward Deployed Engineer" style="display:block;border:none;"/></td>
 </tr></table>
 </a>
 
