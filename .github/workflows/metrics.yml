@@ -21,7 +21,8 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
-          base: header, activity, community, repositories, metadata
+          template: terminal
+          base: header, activity, community, metadata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_threshold: 0%
