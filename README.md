@@ -89,33 +89,6 @@ me = ShubhamVeer()
   <img alt="github-snake" src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/github-snake.svg" width="100%"/>
 </picture>
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/QuantCore">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=QuantCore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="QuantCore"/>
-  </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/minusops">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=minusops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="minusops"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/interns">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=interns&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="interns"/>
-  </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/KaggleResearcher">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=KaggleResearcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="KaggleResearcher"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PROGRAMMER-DUMMY/MinusEngine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=MinusEngine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MinusEngine"/>
-  </a>
-  <a href="https://github.com/PROGRAMMER-DUMMY/PayFlowDQI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PROGRAMMER-DUMMY&repo=PayFlowDQI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="PayFlowDQI"/>
-  </a>
-</p>
-
 ## System Architecture Matrix
 
 | System | Architecture & Technical Highlights |
@@ -129,7 +102,7 @@ me = ShubhamVeer()
 
 ## Autonomous Kaggle Agent Workflows (`kagent`)
 
-My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer)) and competition benchmarks are **100% autonomously managed and driven by `KaggleAgentCli` (`kagent`)**:
+My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer)) and competition benchmarks are **100% autonomously managed and driven by `KaggleResearcher` (`kagent`)**:
 - **Goal-Driven Automation**: Give `kagent` a high-level objective, and its **Strategist Loop** dispatches specialized agents (**Researcher**, **Experimenter**, **Analyst**, **Reporter**) without human micro-management.
 - **Deep Web & Knowledge Synthesis**: Conducts autonomous online deep research, technical paper analysis, and knowledge compaction.
 - **Blackboard & Information Storage**: Maintains append-only durable ledgers of hypotheses, local validation CV metrics, leaderboard scores, and error analysis.
@@ -139,12 +112,14 @@ My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer
 ## GitHub & Kaggle Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PROGRAMMER-DUMMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PROGRAMMER-DUMMY&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
+<!-- Self-generated via .github/workflows/metrics.yml (lowlighter/metrics), committed to the
+     output branch on a schedule -- avoids depending on the public github-readme-stats.vercel.app
+     instance, which is unreliable/paused (see repo docs: recommends self-hosting). -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROGRAMMER-DUMMY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <!-- Contribution Graph -->
