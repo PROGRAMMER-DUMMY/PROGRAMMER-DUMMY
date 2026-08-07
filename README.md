@@ -115,13 +115,6 @@ My Kaggle profile ([`kaggle.com/shubhamveer`](https://www.kaggle.com/shubhamveer
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PROGRAMMER-DUMMY&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
-<!-- Self-generated via .github/workflows/metrics.yml (lowlighter/metrics), committed to the
-     output branch on a schedule -- avoids depending on the public github-readme-stats.vercel.app
-     instance, which is unreliable/paused (see repo docs: recommends self-hosting). -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/output/metrics.svg" alt="GitHub Metrics"/>
-</p>
-
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROGRAMMER-DUMMY&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
