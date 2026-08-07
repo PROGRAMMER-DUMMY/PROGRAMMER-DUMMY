@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="620px" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="1105px" height="500px" font-size="13px">
 <style>
 @font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;size-adjust:109%}
 .k{fill:#ffa657}.v{fill:#a5d6ff}.c{fill:#616e7f}.h{fill:#58a6ff;font-weight:bold}.s{fill:#8b949e}.g{fill:#3fb950}.a{fill:#c9d1d9}
@@ -40,80 +40,66 @@ text,tspan{white-space:pre}
 .cr{animation:bk 1s step-end infinite;fill:#58a6ff}
 .ticker{animation:tk 16s linear infinite}@keyframes tk{from{transform:translateX(0)}to{transform:translateX(-725px)}}
 </style>
-<rect width="985px" height="620px" fill="#161b22" rx="15"/>
+<rect width="1105px" height="500px" fill="#161b22" rx="15"/>
 
 <!-- ASCII Portrait (Andrew6rant Style) -->
 <text x="20" y="35" class="a aa">
-<tspan x="20" y="35">,,-~~::;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;W********WWWW&amp;WWW&amp;&amp;&amp;&amp;;;;:</tspan>
-<tspan x="20" y="55">--~~::;&amp;&amp;&amp;&amp;&amp;&amp;WW**W&amp;---,~;&amp;W***WWWWWW&amp;&amp;&amp;&amp;;;</tspan>
-<tspan x="20" y="75">-~::;;&amp;&amp;&amp;WWWW*W:~--        .-;*MW**WWW&amp;&amp;&amp;;</tspan>
-<tspan x="20" y="95">~~:;;&amp;&amp;&amp;WWW*M&amp;~:,.,           .WB****WW&amp;&amp;&amp;</tspan>
-<tspan x="20" y="115">~:;;&amp;&amp;&amp;WWW**&amp;:;, ..~,          .&amp;BMMM**W&amp;&amp;</tspan>
-<tspan x="20" y="135">:;;;&amp;&amp;WW***~,:,~,-,.             &amp;HMMMM*W&amp;</tspan>
-<tspan x="20" y="155">:;;&amp;&amp;&amp;W**B* ,;:;.     .,         ,HBBMM*WW</tspan>
-<tspan x="20" y="175">:;&amp;&amp;&amp;WW*MW: ,W&amp;-,~-              ,HBBHBM*W</tspan>
-<tspan x="20" y="195">;;&amp;&amp;&amp;W**B&amp;   ,, ..               &amp;DHHHBM*W</tspan>
-<tspan x="20" y="215">;&amp;&amp;&amp;WW**MM~       ..             HDHHHHMM*</tspan>
-<tspan x="20" y="235">;&amp;&amp;&amp;WW*MMH*.,:~-;-.             ;QDDHHHBBM</tspan>
-<tspan x="20" y="255">&amp;&amp;&amp;WW*MMMBH H@@#@@$QW&amp;&amp;&amp;;WM&amp;:-  HQQDDHHHBB</tspan>
-<tspan x="20" y="275">&amp;&amp;&amp;WW*MMBBB&amp;@@mDMBZ*%#QQ&amp;&amp;W&amp;~-,:ZQQQQDHHHB</tspan>
-<tspan x="20" y="295">&amp;&amp;WW**MMBMD$$##m*~:m#%&amp;,-:~~-&amp;;;QQQQQQDHHB</tspan>
-<tspan x="20" y="315">&amp;&amp;WW**MMBMQ@$$##%$%$$%BQZmQBHmW&amp;QQQQQQDHHB</tspan>
-<tspan x="20" y="335">&amp;&amp;WW**MMB*Q@$$$$$$$$$%HH#@@$@m;BQQQQQQDHHB</tspan>
-<tspan x="20" y="355">&amp;&amp;WW**MMMMM#$$$$#%$$$#QDm$$@mH~HQQQQQQDHHB</tspan>
-<tspan x="20" y="375">&amp;&amp;WWW**MMM*H@$$$#%#m#Z:&amp;D$##D&amp;&amp;QQQQQQQDHHB</tspan>
-<tspan x="20" y="395">&amp;&amp;&amp;WW**MMMM&amp;m$$#~&amp;*-;:  .-Dm*~HZQQQQQDHHHB</tspan>
-<tspan x="20" y="415">;&amp;&amp;WWW***MM*M@$$&amp;Z%%mm*~~~MH:;QQQQQDDHHHBM</tspan>
-<tspan x="20" y="435">;;&amp;&amp;WWW*****&amp;Z$%@$##mQM*B*B: HQDDDDDDHHBM*</tspan>
-<tspan x="20" y="455">:;&amp;&amp;&amp;&amp;WWWWWW&amp;Q%%%@@m&amp;;MB&amp;-,,--BDHHHDHHBMM*</tspan>
-<tspan x="20" y="475">:;;&amp;&amp;&amp;WWWWWW&amp;D$#QBHZQH:-- ~*&amp; .&amp;HHHHHBB**W</tspan>
-<tspan x="20" y="495">~:;;&amp;&amp;&amp;&amp;WWWW~B$$%H~     .&amp;DD&amp;   .:&amp;MBBM*W&amp;</tspan>
-<tspan x="20" y="515">~::;;&amp;&amp;&amp;&amp;;:~.M$$$$%Q;,-&amp;HmmQ-       -;W*WW</tspan>
-<tspan x="20" y="535">-~:;&amp;&amp;;~..:;--#$$$$@DBQm*mmM           .-:</tspan>
-<tspan x="20" y="555">-~:~-.   ~&amp;&amp;- Q$$$$%mm$%mmm,              </tspan>
-<tspan x="20" y="575">,.      -~::- ;@$$%#$%##Q%H               </tspan>
+<tspan x="20" y="35">                        @@@@@@%@                        </tspan>
+<tspan x="20" y="55">                    %%%@%%@@@@@@@@@@@@                  </tspan>
+<tspan x="20" y="75">                  %%%%@@@@%@@@@@@@@@@@@@                </tspan>
+<tspan x="20" y="95">                 @%%%%%@@@@@@@@@@@@@@@@@@               </tspan>
+<tspan x="20" y="115">                %@%#%%%%%@@@@@@@@@@@@@@@@@              </tspan>
+<tspan x="20" y="135">                @@@@@@@@@@@@@@@@@@@@@@@@@               </tspan>
+<tspan x="20" y="155">                 %%%%%%%%%@@@@@@@@@@@@@@                </tspan>
+<tspan x="20" y="175">                 %+:=++==+****#####%%%@@                </tspan>
+<tspan x="20" y="195">                 +::=+*%#*=-+#%%%%%%%#%                 </tspan>
+<tspan x="20" y="215">                *-:..:-=-:::+**++++++*##                </tspan>
+<tspan x="20" y="235">                 -:..:-=-:.:+**+=-=+*##                 </tspan>
+<tspan x="20" y="255">                  =::-+++***#%%#*=+*#%                  </tspan>
+<tspan x="20" y="275">                   -:-##++**#%%%%#*#%                   </tspan>
+<tspan x="20" y="295">                    --=--=+*######%%@                   </tspan>
+<tspan x="20" y="315">                    :=++++**##%%%%##@@@                 </tspan>
+<tspan x="20" y="335">                  %#::-+*%%%@@@%#**#@@@@@@@             </tspan>
+<tspan x="20" y="355">              @%##%%-:---=+##**+++*@@@@@@@@@@@@@        </tspan>
+<tspan x="20" y="375">         @%%%%%###%@*----=+++=++++%@@@@@@@@@@@@@@@@@@@@ </tspan>
+<tspan x="20" y="395">   @@%%%%%%%%%%%%#%@@#+--=+=--+*#%@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="415">  %%%%%%%%%%%%%%%#%@@@%%%%%%%@@@@%@@@@@%@@@%%%%%@@@@@@@@</tspan>
+<tspan x="20" y="435"> #@%%%%%%%%%%%%%%#%@@@%%%@@@@@@@%@@@@@%%@@%%%%%%%%@@@@@@</tspan>
+<tspan x="20" y="455">%#@%%%%%%%%%%%%%%#%@@@@%%@@@@@@@%@@@%%%@@%%%%%%%%%@%@@@@</tspan>
 </text>
 
 <!-- System Info Terminal Panel -->
-<text x="360" y="35" fill="#c9d1d9">
-<tspan x="360" y="35" class="h il1">shubham@engineer</tspan><tspan class="s"> ─────────────────────────────────</tspan>
-<tspan x="360" y="53" class="il2"><tspan class="c">. </tspan><tspan class="k">Role</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">AI Engineer | Data Engineer</tspan></tspan>
-<tspan x="360" y="71" class="il3"><tspan class="c">. </tspan><tspan class="k">Status</tspan>:<tspan class="c"> ................. </tspan><tspan class="g">Open to Work</tspan></tspan>
-<tspan x="360" y="89" class="il4"><tspan class="c">. </tspan><tspan class="k">Agentic.CLI</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">kagent, Claude Code, Antigravity, Gemini</tspan></tspan>
-<tspan x="360" y="107" class="il5"><tspan class="c">. </tspan><tspan class="k">Cloud.Platforms</tspan>:<tspan class="c"> ....... </tspan><tspan class="v">AWS, Snowflake, Databricks, BigQuery</tspan></tspan>
-<tspan x="360" y="125" class="il6"><tspan class="c">. </tspan></tspan>
-<tspan x="360" y="143" class="il7">- Core Architecture &amp; Key Systems<tspan class="s"> ─────────────────</tspan></tspan>
-<tspan x="360" y="161" class="il8"><tspan class="c">. </tspan><tspan class="k">QuantCore</tspan>:<tspan class="c"> .............. </tspan><tspan class="v">Hybrid Lambda Quant Trading Bot (Tailscale/ChatOps)</tspan></tspan>
-<tspan x="360" y="179" class="il9"><tspan class="c">. </tspan><tspan class="k">MinusOps</tspan>:<tspan class="c"> ............... </tspan><tspan class="v">Plan-Bound Multi-Cloud Terraform Control Plane</tspan></tspan>
-<tspan x="360" y="197" class="il10"><tspan class="c">. </tspan><tspan class="k">Autoresearch</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">KPI-to-SQL Governance Platform (interns)</tspan></tspan>
-<tspan x="360" y="215" class="il11"><tspan class="c">. </tspan><tspan class="k">KaggleAgentCli</tspan>:<tspan class="c"> ........ </tspan><tspan class="v">Goal-Driven Kaggle Research &amp; Tuning Agent (kagent)</tspan></tspan>
-<tspan x="360" y="233" class="il12"><tspan class="c">. </tspan><tspan class="k">MinusEngine</tspan>:<tspan class="c"> ........... </tspan><tspan class="v">Enterprise Multimodal Graph-RAG (RRF Search)</tspan></tspan>
-<tspan x="360" y="251" class="il13"><tspan class="c">. </tspan><tspan class="k">PayFlowDQI</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">Kafka -> Snowflake -> dbt Data Quality Pipeline</tspan></tspan>
-<tspan x="360" y="269" class="il14"><tspan class="c">. </tspan></tspan>
-<tspan x="360" y="287" class="il15">- Tech Stack &amp; Languages<tspan class="s"> ───────────────────────────</tspan></tspan>
-<tspan x="360" y="305" class="il16"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>:<tspan class="c"> ............. </tspan><tspan class="v">Python, SQL, PySpark, HCL (Terraform)</tspan></tspan>
-<tspan x="360" y="323" class="il17"><tspan class="c">. </tspan><tspan class="k">Data.Stack</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">Kafka, dbt, DuckDB, Polars, PostgreSQL</tspan></tspan>
-<tspan x="360" y="341" class="il18"><tspan class="c">. </tspan><tspan class="k">AI.Stack</tspan>:<tspan class="c"> .............. </tspan><tspan class="v">PyTorch, Gemini Live, Graph-RAG, Optuna</tspan></tspan>
-<tspan x="360" y="359" class="il19"><tspan class="c">. </tspan><tspan class="k">DevOps.Stack</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">Terraform, Docker, Kubernetes, CI/CD</tspan></tspan>
-<tspan x="360" y="377" class="il20"><tspan class="c">. </tspan></tspan>
-<tspan x="360" y="395" class="il21">- Engineering Methods<tspan class="s"> ──────────────────────────────</tspan></tspan>
-<tspan x="360" y="413" class="il22"><tspan class="c">. </tspan><tspan class="k">AI.Methods</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">RRF Hybrid Search, Red-Teaming, Edge PII</tspan></tspan>
-<tspan x="360" y="431" class="il23"><tspan class="c">. </tspan><tspan class="k">Data.Methods</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">KPI-to-SQL Autoresearch, Medallion, FinOps</tspan></tspan>
-<tspan x="360" y="449" class="il24"><tspan class="c">. </tspan></tspan>
-<tspan x="360" y="467" class="il25">- GitHub &amp; Kaggle Stats<tspan class="s"> ────────────────────────────</tspan></tspan>
+<text x="480" y="35" fill="#c9d1d9">
+<tspan x="480" y="35" class="h il1">shubham@engineer</tspan><tspan class="s"> ─────────────────────────────────</tspan>
+<tspan x="480" y="53" class="il2"><tspan class="c">. </tspan><tspan class="k">Role</tspan>:<tspan class="c"> ................... </tspan><tspan class="v">AI Engineer | Data Engineer</tspan></tspan>
+<tspan x="480" y="71" class="il3"><tspan class="c">. </tspan><tspan class="k">Status</tspan>:<tspan class="c"> ................. </tspan><tspan class="g">Open to Work</tspan></tspan>
+<tspan x="480" y="89" class="il4"><tspan class="c">. </tspan><tspan class="k">Agentic.CLI</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">kagent, Claude Code, Antigravity, Gemini</tspan></tspan>
+<tspan x="480" y="107" class="il5"><tspan class="c">. </tspan><tspan class="k">Cloud.Platforms</tspan>:<tspan class="c"> ....... </tspan><tspan class="v">AWS, Snowflake, Databricks, BigQuery</tspan></tspan>
+<tspan x="480" y="125" class="il6"><tspan class="c">. </tspan></tspan>
+<tspan x="480" y="143" class="il15">- Tech Stack &amp; Languages<tspan class="s"> ───────────────────────────</tspan></tspan>
+<tspan x="480" y="161" class="il16"><tspan class="c">. </tspan><tspan class="k">Languages</tspan>:<tspan class="c"> ............. </tspan><tspan class="v">Python, SQL, PySpark, HCL (Terraform)</tspan></tspan>
+<tspan x="480" y="179" class="il17"><tspan class="c">. </tspan><tspan class="k">Data.Stack</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">Kafka, dbt, DuckDB, Polars, PostgreSQL</tspan></tspan>
+<tspan x="480" y="197" class="il18"><tspan class="c">. </tspan><tspan class="k">AI.Stack</tspan>:<tspan class="c"> .............. </tspan><tspan class="v">PyTorch, Gemini Live, Graph-RAG, Optuna</tspan></tspan>
+<tspan x="480" y="215" class="il19"><tspan class="c">. </tspan><tspan class="k">DevOps.Stack</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">Terraform, Docker, Kubernetes, CI/CD</tspan></tspan>
+<tspan x="480" y="233" class="il20"><tspan class="c">. </tspan></tspan>
+<tspan x="480" y="251" class="il21">- Engineering Methods<tspan class="s"> ──────────────────────────────</tspan></tspan>
+<tspan x="480" y="269" class="il22"><tspan class="c">. </tspan><tspan class="k">AI.Methods</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">RRF Hybrid Search, Red-Teaming, Edge PII</tspan></tspan>
+<tspan x="480" y="287" class="il23"><tspan class="c">. </tspan><tspan class="k">Data.Methods</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">KPI-to-SQL Autoresearch, Medallion, FinOps</tspan></tspan>
+<tspan x="480" y="305" class="il24"><tspan class="c">. </tspan></tspan>
+<tspan x="480" y="323" class="il25">- GitHub &amp; Kaggle Stats<tspan class="s"> ────────────────────────────</tspan></tspan>
 
-<tspan x="360" y="503" class="il27"><tspan class="c">. </tspan></tspan>
-<tspan x="360" y="521" class="il28">- Contact<tspan class="s"> ───────────────────────────────────────────</tspan></tspan>
-<tspan x="360" y="539" class="il29"><tspan class="c">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">PROGRAMMER-DUMMY</tspan></tspan>
-<tspan x="360" y="557" class="il29"><tspan class="c">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">shubham-veer-3609a7404</tspan></tspan>
-<tspan x="360" y="575" class="il29"><tspan class="c">. </tspan><tspan class="k">Kaggle</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">kaggle.com/shubhamveer</tspan><tspan class="cr">_</tspan></tspan>
+<tspan x="480" y="359" class="il27"><tspan class="c">. </tspan></tspan>
+<tspan x="480" y="377" class="il28">- Contact<tspan class="s"> ───────────────────────────────────────────</tspan></tspan>
+<tspan x="480" y="395" class="il29"><tspan class="c">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">PROGRAMMER-DUMMY</tspan></tspan>
+<tspan x="480" y="413" class="il29"><tspan class="c">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="c"> .......... </tspan><tspan class="v">shubham-veer-3609a7404</tspan></tspan>
+<tspan x="480" y="431" class="il29"><tspan class="c">. </tspan><tspan class="k">Kaggle</tspan>:<tspan class="c"> ............ </tspan><tspan class="v">kaggle.com/shubhamveer</tspan><tspan class="cr">_</tspan></tspan>
 </text>
 
-<clipPath id="tickerClip"><rect x="360" y="472" width="605" height="20"/></clipPath>
+<clipPath id="tickerClip"><rect x="480" y="328" width="605" height="20"/></clipPath>
 <g clip-path="url(#tickerClip)">
 <g class="ticker">
-<text x="360" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
-<text x="1085" y="485" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
+<text x="480" y="341" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
+<text x="1205" y="341" fill="#c9d1d9"><tspan class="c">. </tspan><tspan class="k">Repos</tspan>:<tspan class="c"> ... </tspan><tspan class="v">27</tspan> | <tspan class="k">Commits</tspan>:<tspan class="c"> ... </tspan><tspan class="v">270+</tspan> | <tspan class="k">Kaggle</tspan>:<tspan class="c"> ... </tspan><tspan class="v">shubhamveer (100% kagent-driven)</tspan><tspan class="c">     •     </tspan></text>
 </g>
 </g>
 
