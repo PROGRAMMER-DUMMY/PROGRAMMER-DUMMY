@@ -1,9 +1,9 @@
-<!-- Animated Neofetch Header - Adapts to dark/light mode -->
+<!-- Neofetch Header: animated ASCII-assembly portrait (WebP) + terminal info panel (SVG) -->
 <a href="https://github.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/dark_mode.svg">
-    <img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/light_mode.svg" alt="Shubham Veer - AI Engineer | Data Engineer | Forward Deployed Engineer">
-  </picture>
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/portrait.webp" height="500" alt="Shubham Veer"/></td>
+<td><img src="https://raw.githubusercontent.com/PROGRAMMER-DUMMY/PROGRAMMER-DUMMY/main/dark_mode.svg" height="500" alt="AI Engineer | Data Engineer | Forward Deployed Engineer"/></td>
+</tr></table>
 </a>
 
 <!-- Typing Animation -->
